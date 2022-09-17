@@ -1,0 +1,24 @@
+.icon-brie {
+    width: 64px; height: 45px;
+    background: url('../images/css_sprites.png') -10px -10px;
+}
+
+.icon-cheddar {
+    width: 64px; height: 45px;
+    background: url('../images/css_sprites.png') -94px -10px;
+}
+
+.icon-dairylea {
+    width: 64px; height: 45px;
+    background: url('../images/css_sprites.png') -10px -75px;
+}
+
+.icon-edam {
+    width: 64px; height: 45px;
+    background: url('../images/css_sprites.png') -94px -75px;
+}
+
+.icon-stilton {
+    width: 64px; height: 45px;
+    background: url('../images/css_sprites.png') -178px -10px;
+}

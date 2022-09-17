@@ -3,7 +3,7 @@ package wood.mike
 import grails.testing.web.controllers.ControllerUnitTest
 import spock.lang.Specification
 
-class TestDataControllerSpec extends Specification implements ControllerUnitTest<TestDataController> {
+class DessertControllerSpec extends Specification implements ControllerUnitTest<DessertController> {
 
     def setup() {
     }
